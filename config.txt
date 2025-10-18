@@ -1,0 +1,10 @@
+export PATH="/c/Program Files/Notepad++:/c/JDK/bin:/c/Git/cmd:/c/Git/bin:$PATH"
+
+
+#export PATH="$PATH:C:\ProgramFiles\Notepad++"
+#export PATH="C:\JDK\bin:$PATH"
+#export PATH="C:\Git\cmd:$PATH"
+#export PATH="C:\Git\bin:$PATH"
+#alias npp="C:\Program Files\Notepad++\notepad++.exe -multiInst -nosession"
+
+cd C:\
